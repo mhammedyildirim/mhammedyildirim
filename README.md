@@ -2,7 +2,7 @@
 #### I am student at computer science in erciyes university.
 ![I am student at computer science in erciyes university.](https://i.hizliresim.com/cmxwdeb.png)
 
-I am currently learning Cloud & DevOps
+I am currently learning Cloud & DevOps and working as a DevOps Engineer. 
 
 mhammedyildirim@protonmail.com
 
